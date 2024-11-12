@@ -1,6 +1,6 @@
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Pavan</h1>
 
-<h3>A Full-Stack Developer by day, a tech tinkerer by night, and a coffee-fueled code poet 24/7. With 5+ years of experience in bringing ideas to life through lines of code (and the occasional bug), I’m here to make the web a more functional, fun, and slightly more stylish place.</h3>
+<h3>A Full-Stack Developer by day, a tech tinkerer by night, and a coffee-fueled code poet 24/7. With 5+ years of experience in bringing ideas to life through lines of code (and the occasional bug), I’m here to make the web a more functional, fun, and <i>slightly</i> more <i>stylish</i> place.</h3>
 
 - 📫 How to reach me **pavan.ambekarr@gmail.com**
 
